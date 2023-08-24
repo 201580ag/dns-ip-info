@@ -1,7 +1,7 @@
 # dns-ip-info
 IP Address Info
 
-```markdown
+```
 # IP Address Info
 
 This Python script extracts the IP address and related information for a given URL.
